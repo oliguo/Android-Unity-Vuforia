@@ -1,9 +1,11 @@
-#android-unity-vuforia
+# android-unity-vuforia
+
 Study vuforia with unity for android development.
 
-Youtube Video demo
+[Youtube Video demo](https://www.youtube.com/embed/uYDDgumH8Xs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uYDDgumH8Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Youtube Video demo](https://i.ytimg.com/vi/uYDDgumH8Xs/2.jpg?time=1516450342344)](https://www.youtube.com/embed/uYDDgumH8Xs "Youtube Video demo")
+
 
 Thanks for reference link:
 
